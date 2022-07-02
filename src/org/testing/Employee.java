@@ -6,5 +6,9 @@ public class Employee {
 		System.out.println("123");
 
 	}
+	private void empName() {
+		System.out.println("Greens");
+
+	}
 
 }
